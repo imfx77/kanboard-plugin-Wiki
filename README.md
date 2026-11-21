@@ -88,7 +88,7 @@ The main purpose of the Wiki Plugin is to provide an easy way to add and maintai
   * _No known issues_
 * **Core Files & Templates**
   * `2` Template overrides
-  * `3` Database tables serving Wiki plugin purposes + `1` entry into KB settings 
+  * `3` Database tables serving Wiki plugin purposes + `3` entries into KB settings 
 
 </details>
 <details>
@@ -202,7 +202,7 @@ Note the `Id` of the attachment **[5]**, be it image or any other file, if yo ne
 In order to attach a _document_ **[6]** there a form that allows for browsing or drag-and-dropping of practically _any type of file_.
 All the attached files from the list **[6]** can be managed through their menu **[7]**, allowing `Download` and `Remove`. 
 Some of them also have a `View file` option that will attempt to preview them in a separate browser window.
-The later include all the `*.pdf, *.mp3, *.ogg, *.flac, *.wav, *.avi, *.webm, *.mov, *.m4v, *.mp4, *.svg` files.
+The later include all the `*.txt, *.md, *.pdf, *.mp3, *.ogg, *.flac, *.wav, *.avi, *.webm, *.mov, *.m4v, *.mp4, *.svg` files.
 
 ![Wiki Page Attachments 2](Screenshots/content-page-attachments-2.png)
 
